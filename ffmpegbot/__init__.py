@@ -33,7 +33,7 @@ AUTH_USERS = list(set(AUTH_USERS))
 EVAL_CMD_TRIGGER = Config.EVAL_CMD_TRIGGER
 EXEC_CMD_TRIGGER = Config.EXEC_CMD_TRIGGER
 
-HELP_STICKER = """Utangulizi:
+HELP_STICKER = (Utangulizi:
 
  
 
@@ -232,6 +232,6 @@ Kanuni kutoka Qur-aan na Sunnah zinahitaji maelezo na ufafanuzi. Ndipo tunapokut
 
 [5] As-Sarkhasi, KITAAB AL-USWUUL, Juzuu ya 2, uk. 223
 
-[6] Nyanzi, ISLAMIC JURISPRUDENCE, uk. 24."""
+[6] Nyanzi, ISLAMIC JURISPRUDENCE, uk. 24.)
 PROCESS_RUNNING = "processing ..."
 MSAADA_TXT = "[I Love IsLam](https://telegra.ph/I-LOVE-ISLAM-04-21)"
