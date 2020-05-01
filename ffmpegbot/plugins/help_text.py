@@ -2,6 +2,7 @@ from pyrogram import Client, Filters
 
 from ffmpegbot import (
     HELP_STICKER,
+    MSAADA_TXT,
     TMP_DOWNLOAD_DIRECTORY
 )
 
@@ -11,5 +12,5 @@ async def start_text(client, message):
     await message.reply_text(HELP_STICKER, quote=True)
 
 @Client.on_message(Filters.command(["help"]))
-async def help_msaada(client, message):
-    await message.reply_text(MSAADA, quote=True)
+async def msaada(client, message):
+    await message.reply_text(MSAADA_TXT, quote=True)
