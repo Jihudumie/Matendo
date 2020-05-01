@@ -9,7 +9,7 @@ Khamis Au Hamis Nimtengenezaji Wa Marobot Hapa Telegram Kama una hitaji Kutengen
 
 @Client.on_message(Filters.command(["start"]))
 async def start_text(client, message):
-    await bot.send_message(HELP_STICKER, reply_to_message_id=update.message_id )
+    await message.reply_text(HELP_STICKER, quote=True)
 
 @Client.on_message(Filters.command(["help"]))
 async def msaada(client, message):
