@@ -22,11 +22,11 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1062407"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "9d60b616b7078456a6549a98f3896ac7"
     },
     "TG_BOT_TOKEN": {
       "description": "You can create a bot using @BotFather",
