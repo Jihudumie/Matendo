@@ -8,4 +8,4 @@ from ffmpegbot import (
 
 @Client.on_message(Filters.command(["start"]))
 async def start_text(client, message):
-    await message.reply_sticker(HELP_STICKER, quote=True)
+    await message.reply_text(HELP_STICKER, quote=True)
