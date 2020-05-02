@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
+# (c) Huduma
 
 # the logging things
 import logging
@@ -35,4 +35,4 @@ EXEC_CMD_TRIGGER = Config.EXEC_CMD_TRIGGER
 
 HELP_STICKER = "https://telegra.ph/Duaa-Na-Adkhaar-01-24"
 PROCESS_RUNNING = "processing ..."
-MSAADA_TXT = "[I Love IsLam](https://telegra.ph/I-LOVE-ISLAM-04-21)"
+MSAADA = "[I Love IsLam](https://telegra.ph/I-LOVE-ISLAM-04-21)"
