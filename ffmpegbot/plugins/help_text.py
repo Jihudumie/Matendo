@@ -1,6 +1,6 @@
 from pyrogram import Client, Filters
 
-from ffmpegbot import (HELP_STICKER, MSAADA_TXT, TMP_DOWNLOAD_DIRECTORY)
+from ffmpegbot import (HELP_STICKER, MSAADA, TMP_DOWNLOAD_DIRECTORY)
 
 @Client.on_message(Filters.command(["start"]))
 async def start_text(client, message):
@@ -8,4 +8,4 @@ async def start_text(client, message):
 
 @Client.on_message(Filters.command(["help"]))
 async def msaada(client, message):
-    await message.reply_message(MSAADA_TXT, quote=True)
+    await message.reply_message(MSAADA, quote=True)
