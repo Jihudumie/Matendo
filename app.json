@@ -34,7 +34,7 @@
     },
     "AUTH_USERS": {
       "description": "You can create a bot using @BotFather",
-      "value": "7351948 -1001220993104"
+      "value": "1041455290 -1001243018219"
     },
     "TG_UPDATE_WORKERS_COUNT": {
       "description": "Number of workers to use. `1` is the recommended amount see for yourself what works best!",
