@@ -21,6 +21,5 @@ else:
 
 
 # TODO: is there a better way?
-
 HELP_STICKER = "Karibu.\n\n1. Mimi ni Bot au Robot\n2. <u>Karibu Katika</u> @Huduma\n3. <u>Karibu katika Channel Yangu</u> @HabariTz"
 MSAADA_TXT = "https://telegra.ph/I-LOVE-ISLAM-04-21"
