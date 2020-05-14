@@ -33,6 +33,6 @@ AUTH_USERS = list(set(AUTH_USERS))
 EVAL_CMD_TRIGGER = Config.EVAL_CMD_TRIGGER
 EXEC_CMD_TRIGGER = Config.EXEC_CMD_TRIGGER
 
-HELP_STICKER = "CAACAgQAAxkBAAEEe6deq7METj2oS6v2yjutr2dO8XUZwAAC2wADpjH0CvDZOJN3sInyGQQ"
+HELP_STICKER = "Karibu.\n\n1. Mimi ni Bot au Robot\n2. <u>Karibu Katika</u> @Huduma\n3. <u>Karibu katika Channel Yangu</u> @HabariTz"
 PROCESS_RUNNING = "processing ..."
 MSAADA_TXT = "https://telegra.ph/I-LOVE-ISLAM-04-21"
