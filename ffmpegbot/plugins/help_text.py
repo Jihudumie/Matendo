@@ -1,6 +1,6 @@
 from pyrogram import Client, Filters
 
-from ffmpegbot import (HELP_STICKER, MSAADA_TXT, TMP_DOWNLOAD_DIRECTORY)
+from ffmpegbot import (HELP_STICKER, MSAADA_TXT, TMP_DOWNLOAD_DIRECTORY, 000)
 
 
 @Client.on_message(Filters.command(["start"]))
