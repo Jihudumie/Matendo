@@ -10,3 +10,7 @@ async def start_text(client, message):
 @Client.on_message(Filters.command(["help"]))
 async def msaada(client, message):
     await message.reply_text(MSAADA_TXT, quote=True)
+
+@Client.on_message(Filters.command(["000"]))
+async def utangulizi(client, message):
+    await message.reply_text(UTANGULIZI, quote=True)
