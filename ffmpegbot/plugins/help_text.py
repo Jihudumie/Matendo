@@ -7,7 +7,7 @@ from ffmpegbot import (HELP_STICKER, MSAADA_TXT, TMP_DOWNLOAD_DIRECTORY, UTANGUL
 async def start_text(client, message):
     await message.reply_text(HELP_STICKER, quote=True)
 
-@Client.on_message(Filters.command(["help"]))
+@Client.on_message(Filters.command(["011"]))
 async def msaada(client, message):
     await message.reply_text(MSAADA_TXT, quote=True)
 
