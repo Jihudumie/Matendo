@@ -17,7 +17,7 @@ async def moja(client, message):
 
 @Client.on_message(Filters.command(["02"]))
 async def mbili(client, message):
-    await message.reply_text(JM, quote=True)
+    await message.reply_text(JP, quote=True)
 
 @Client.on_message(Filters.command(["03"]))
 async def tatu(client, message):
