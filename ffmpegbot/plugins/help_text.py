@@ -1,6 +1,8 @@
 from pyrogram import Client, Filters
 
-from ffmpegbot import (HELP_STICKER, MSAADA_TXT, TMP_DOWNLOAD_DIRECTORY)
+from ffmpegbot import (HELP_STICKER, MSAADA_TXT, JM, JP, JT, JN,
+JO, JS, JB, JE, JST, JKM,
+JKT, JKN, JKNT)
 
 
 @Client.on_message(Filters.command(["start"]))
