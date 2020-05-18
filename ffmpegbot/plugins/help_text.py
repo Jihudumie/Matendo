@@ -2,7 +2,7 @@ from pyrogram import Client, Filters
 
 from ffmpegbot import (HELP_STICKER, MSAADA_TXT, JM, JP, JT, JN,
 JO, JS, JB, JE, JST, JKM,
-JKT, JKN, JKNT)
+JKT, JKN, JKNT, JTS)
 
 
 @Client.on_message(Filters.command(["start"]))
