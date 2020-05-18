@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
+# (c) Khamis S
 
 # the logging things
 import logging
@@ -42,11 +42,13 @@ JP = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-3-na-4/"
 JT = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-5-na-6/"
 JN = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-7-na-8/"
 JO = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-9-na-10/"
-JS = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-11-na-12/"
+JS = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-29-na-30/"
 JB = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-13-na-14/"
 JE = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-15-na-16/"
+JTS = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-27-na-28/"
 JST = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-17-na-18/"
 JKM = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-19-na-20/"
+JKMN = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-11-na-12/"
 JKT = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-21-na-22/"
 JKN = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-23-na-24/"
 JKNT = "https://alsidqblog.wordpress.com/tafsiri-ya-quran-tukufu/juzuu-ya-25-na-26/"
